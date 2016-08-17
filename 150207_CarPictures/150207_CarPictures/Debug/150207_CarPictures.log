@@ -1,0 +1,5 @@
+﻿  150207_CarPictures.vcxproj -> F:\graphical\150207_CarPictures\Debug\150207_CarPictures.exe
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\cudart*.dll" "F:\graphical\150207_CarPictures\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\cudart32_65.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v6.5\bin\cudart64_65.dll
+  已复制         2 个文件。

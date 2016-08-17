@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/10/26 14:17:54。
+     1>项目“E:\Graphical_extend\151026_OpenMS3D\150613_OpenMS3D\150613_OpenMS3D.vcxproj”在节点 2 上(build 个目标)。
+       项目文件包含 ToolsVersion="12.0" 设置，而此版本的 MSBuild 不支持该工具版本。该项目将视为包含 ToolsVersion="4.0" 设置。
+     1>InitializeBuildStatus:
+         正在对“Debug\150613_OpenMS3D.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         d:\Program Files (x86)\Visual Studio 2010\apply\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\graphical_extend\151026_openms3d\150613_openms3d\source.cpp(11): fatal error C1083: 无法打开包括文件:“GL/glut.h”: No such file or directory
+     1>已完成生成项目“E:\Graphical_extend\151026_OpenMS3D\150613_OpenMS3D\150613_OpenMS3D.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.21
